@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my MCA and working on java project.<br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with such technology like java and go lang.<br>🌱 I’m currently learning go lang and J2EE and many more.<br>💬 Ask me about java and PHP concept<br>⚡ Fun fact explore knowledge in new technology.
+🔭 MCA graduate and Mobile Application Developer specializing in building scalable, high-performance mobile applications using Flutter.
+👯 Actively interested in collaborating on open-source and real-world mobile application projects.
+🤝 Open to knowledge sharing and collaboration in Flutter, Java, and modern backend technologies.
+🌱 Continuously upskilling in advanced Flutter concepts, API integrations, and backend development.
+💬 Feel free to ask me about Flutter development, mobile app architecture, Java fundamentals, and PHP concepts.
+⚡ Fun fact: I’m passionate about exploring new technologies and turning ideas into functional mobile applications.
 
 
 ## 🌐 Socials:
